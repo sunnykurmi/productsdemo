@@ -67,6 +67,7 @@ const checkouthandler = async (price) => {
         
 }
 
+
     if (!products) {
         return <div>Loading...</div>;
       }
